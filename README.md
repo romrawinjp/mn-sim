@@ -1,5 +1,15 @@
-# Microneedle Simulation
-This directory is collected the dataset in the paper 
+# Microneedle Simulation Dataset
+This directory is collected the dataset in this paper
+
+## Shape of Microneedle
+The simulated shapes are;
+- rectangle-solid
+- pipe-solid
+- tapered-cone-solid
+- pyramid-solid
+- beveled-tip-solid
+- triangle-solid
+- cone-solid
 
 ## Citation
 ```
