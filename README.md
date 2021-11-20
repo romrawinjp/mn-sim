@@ -13,7 +13,7 @@ The simulated shapes are;
 
 ## Citation
 ```
-@software{xxx,
+@article{xxx,
   author = {xxx, xxx, xxx},
   doi = {xx},
   month = {xx},
