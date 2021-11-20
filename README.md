@@ -17,7 +17,7 @@ The simulated shapes are;
   author = {xxx, xxx, xxx},
   doi = {xx},
   month = {xx},
-  title = {Optimal Design of Microneedles through Numerical Simulation and Stress Prediction},
+  title = {Accelerated Optimal Design of Microneedles through Stress Prediction using Machine Learning},
   url = {https://github.com/romrawinjp/mn-sim.git},
   version = {xx},
   year = {2021}
